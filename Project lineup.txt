@@ -1,0 +1,7 @@
+Started the project Navasa
+engine: -It will be the script which will combine all the other scripts and program to run with UI means it would work like Backend 
+
+helper: - This file will contain all the basic funtions which would required in any other file
+
+
+Goal: try to work daily min 10 minutes and add new features.
